@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-
 x1 = 0
 x2 = 20
 y1 = 0
